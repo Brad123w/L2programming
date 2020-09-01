@@ -1,6 +1,6 @@
 #Holey-Weave
 
-#movment
+movment
 -mouse pionter movement for the player
 #obstical
 -Bars come from the top of the canvas with holes in each bar
